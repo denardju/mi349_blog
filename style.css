@@ -28,5 +28,9 @@ border-top: 2px dotted #000080;
 
 .image{
 float: right;
-margin-left: 10px;
+margin-left: 5px;
+}
+
+#about{
+margin-right: auto;
 }
