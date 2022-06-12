@@ -25,3 +25,8 @@ font-size: medium;
 border-bottom: 2px dotted #000080;
 border-top: 2px dotted #000080;
 }
+
+.image{
+float: right;
+margin-left: 10px;
+}
