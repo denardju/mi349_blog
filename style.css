@@ -28,9 +28,14 @@ border-top: 2px dotted #000080;
 
 .image{
 float: right;
-margin-left: 5px;
+margin-right: 5px;
 }
 
 #about{
 line-break: auto;
+}
+
+.sidebar{
+position: sticky;
+top: 0;
 }
