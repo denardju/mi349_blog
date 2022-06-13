@@ -50,3 +50,8 @@ text-decoration: none;
 font-size: 25px;
 display: block;
 }
+
+section{
+margin-left: 160px;
+padding: 0px 10px;
+}
