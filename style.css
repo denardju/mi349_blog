@@ -44,3 +44,9 @@ top: 0;
 right: 0;
 padding-top: 20px;
 }
+
+.sidebar a{
+text-decoration: none;
+font-size: 25px;
+display: block;
+}
