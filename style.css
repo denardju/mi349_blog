@@ -36,7 +36,7 @@ line-break: auto;
 }
 
 .sidebar{
-height: 100%;
+height: auto;
 width: 160px;
 background-color: darkgray;
 position: sticky;
