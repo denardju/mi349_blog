@@ -37,6 +37,6 @@ line-break: auto;
 
 .sidebar{
 position: sticky;
-top: 100%;
-right: 80%;
+top: 0;
+right: 0;
 }
