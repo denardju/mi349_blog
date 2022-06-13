@@ -36,7 +36,11 @@ line-break: auto;
 }
 
 .sidebar{
+height: 100%;
+width: 160px;
+background-color: darkgray;
 position: sticky;
 top: 0;
 right: 0;
+padding-top: 20px;
 }
