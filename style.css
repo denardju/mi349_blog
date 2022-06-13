@@ -80,7 +80,7 @@ img{
 margin: 160px;
 }
 
-@media (max-width: 600px){
+@media (max-width: 400px){
 section{
 display: inline;
 }
@@ -89,6 +89,6 @@ height: min-content;
 position: absolute;
 }
 img{
-width: 400px;
+width: 200px;
 }
 }
