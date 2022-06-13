@@ -60,3 +60,9 @@ header{
 margin-left: 160px;
 padding: 0px 10px;
 }
+
+article{
+background-color: darkgray;
+padding: 20px;
+margin: 20px;
+}
