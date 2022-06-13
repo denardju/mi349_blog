@@ -64,7 +64,7 @@ padding: 0px 10px;
 
 article{
 background-color: darkgray;
-padding: 20px;
+padding: 10px;
 margin: 20px;
 }
 
@@ -74,4 +74,8 @@ flex: 1;
 
 article:nth-of-type(2){
 flex: 1;
+}
+
+img{
+margin: 160px;
 }
